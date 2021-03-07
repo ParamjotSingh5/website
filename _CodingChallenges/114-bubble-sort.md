@@ -87,6 +87,14 @@ contributions:
       url: "https://github.com/galElmalah"
     url: "https://galelmalah.github.io/sorting-visualisations/"
     source: "https://github.com/galElmalah/sorting-visualisations"
+    title: "BubbleSort Visualizer (with variable bar density)"
+    
+    author:
+      name: "Paramjot Singh"
+      url: "https://github.com/ParamjotSingh5"
+    url: "https://paramjotsingh5.github.io/SortingVisualisationJS/Index.html"
+    source: "https://github.com/ParamjotSingh5/SortingVisualisationJS"
+    title: "BubbleSort Visualizer using JS,HTML,CSS"
 ---
 
 In this coding challenge, I implement a "bubble sort" algorithm in Processing (Java) and sort randomly generated lines. [#SortingTrain](https://twitter.com/hashtag/SortingTrain)
